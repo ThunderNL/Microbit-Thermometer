@@ -1,15 +1,6 @@
 
 > Open deze pagina op [https://thundernl.github.io/microbit-thermometer/](https://thundernl.github.io/microbit-thermometer/)
 
-## Gebruiken als extensie
-
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/thundernl/microbit-thermometer** en importeren
-
 ## Dit project bewerken ![Badge buildstatus](https://github.com/thundernl/microbit-thermometer/workflows/MakeCode/badge.svg)
 
 Om deze repository te bewerken in MakeCode.
