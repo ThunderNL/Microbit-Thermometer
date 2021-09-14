@@ -1,5 +1,5 @@
 {
-    "name": "thermostaat",
+    "name": "thermometer",
     "description": "",
     "dependencies": {
         "core": "*",
