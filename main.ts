@@ -4,6 +4,7 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     led.setBrightness(led.brightness() + 25.5)
 })
+led.setBrightness(0)
 basic.forever(function () {
     if (input.temperature() == -5) {
         basic.showLeds(`
