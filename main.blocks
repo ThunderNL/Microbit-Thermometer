@@ -25,7 +25,7 @@
         `</field></block></statement><next><block type="controls_if" id="/BveMFI38**mjIz:0ijq"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="NxM_7J|gQ50(1{t^0Gp1"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id="2FfH.yN_OVUP{LQ~(5{3"/></value><value name="B"><shadow type="math_number" id="{gZRzq:*E9UtMNuWPK9s"><field name="NUM">-1</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="7D/!u|!Eu~u/N|orEIFS"><field name="LEDS">`
         . . . . # 
         . . . . # 
-        # # # # # 
+        # # . . # 
         . . . . # 
         . . . . #
         `</field></block></statement><next><block type="controls_if" id="BXCHvLErCai$u?d:zVfj"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="eJr0d^.z[_(PevBAFJ,x"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id="4o]6)|Ry?axzXmi03,ii"/></value><value name="B"><shadow type="math_number" id="Xw4VUw~(6V^GoQ2?65am"><field name="NUM">0</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="W5Yed@WrAT2I!fWWFdZ$"><field name="LEDS">`
